@@ -1,0 +1,11 @@
+{
+  "name": "renex",
+  "version": "1.0.0",
+  "description": "ReNex is a cutting-edge file and folder renaming solution designed to elevate your batch renaming experience to the next level. With its intuitive interface and powerful capabilities, ReNex empowers users to effortlessly rename multiple files and folders in one swift operation. Say goodbye to manual renaming tasks and embrace efficiency with ReNex – where innovation meets seamless file management.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Darsh Doshi",
+  "license": "ISC"
+}
